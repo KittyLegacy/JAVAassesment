@@ -15,4 +15,4 @@ most part.
 # What would make your experience with this assessment better?
 
 Really hope that there were more lesson on java because alot of concept but too little time.. But overall i really love this assesment because its a very good 
-study material. And i must say given the time jean had to teach us java its amazing how much she had taught us. 
+study material. And i must say given the time jean had on hand to teach us java its amazing how much she had taught us.
